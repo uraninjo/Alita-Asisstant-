@@ -1,0 +1,17 @@
+pip3 install --pre torch torchvision torchaudio -f https://download.pytorch.org/whl/nightly/cu111/torch_nightly.html
+
+pip install transformers
+
+pip install pyttsx3
+
+pip install SpeechRecognition
+
+pip install requests
+
+pip install pynput
+
+pip install psutil
+
+pip install wikipedia
+
+pip install deep-translator
